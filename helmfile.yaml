@@ -1,0 +1,9 @@
+releases:
+- name: my-release-1
+  chart: ./helloworld
+  installed: false
+
+- name: my-release-2
+  chart: ./helloworld
+  installed: false
+
